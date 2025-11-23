@@ -94,7 +94,7 @@ The TM₀₁₀ (Transverse Magnetic) mode is the fundamental mode for circular 
 **Real-Time Application:**
 While more common in medical and research accelerators, the principles of the TM₀₁₀ mode are foundational for advanced research at institutions like the **Bhabha Atomic Research Centre (BARC)** and **DRDO**, exploring future technologies such as high-power microwave directed-energy weapons for neutralizing enemy electronics.
 
-<img width="3136" height="1344" alt="image" src="https://github.com/user-attachments/assets/a1172390-b957-4e08-a6ff-d7b8d556ee69" />
+<img width="315" height="160" alt="image" src="https://github.com/user-attachments/assets/338c67e8-affe-468f-b867-092d2ed4e509" />
 
 ---
 
@@ -108,7 +108,7 @@ As Prime Minister Narendra Modi stated, **"Our aim is to make India a global lea
 
 The story of Indian defense modernization is, in part, a story of mastering resonance. It is a tribute to the soldier in the bunker, the pilot in the cockpit, the engineer in the lab, and the unsung cavity resonator—a perfect harmony of valor and vibration, working in concert to secure the nation's future.
 
-<img width="315" height="160" alt="image" src="https://github.com/user-attachments/assets/338c67e8-affe-468f-b867-092d2ed4e509" />
+<img width="3136" height="1344" alt="image" src="https://github.com/user-attachments/assets/27697e44-30dd-44f6-bb41-d4740976443a" />
 
 ***
 
