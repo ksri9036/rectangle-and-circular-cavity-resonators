@@ -42,7 +42,7 @@ This equation defines the specific frequencies at which a rectangular cavity nat
 **Real-Time Application in Indian Defense:**
 The **LRDE/DRDO-developed Long-Range Tracking Radar (LRTR)** for ballistic missile defense uses complex filter banks built with rectangular cavity resonators. These cavities are designed to resonate at precise frequencies within the S-band, allowing the radar to distinguish the faint echo of an incoming warhead from decoys and clutter, providing crucial data for the **Prithvi Air Defence (PAD) and Advanced Air Defence (AAD) interceptor systems.**
 
-<img width="2304" height="1728" alt="image" src="https://github.com/user-attachments/assets/265900b4-1ce8-4aa0-9da1-551005d51a32" />
+<img width="236" height="214" alt="image" src="https://github.com/user-attachments/assets/db6c3fc5-3a19-4a4b-8581-664638cc345e" />
 
 ### **2. Resonant Frequency of a Circular Cavity (Cylindrical)**
 
