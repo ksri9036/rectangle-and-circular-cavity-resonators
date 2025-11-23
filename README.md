@@ -94,7 +94,7 @@ The TM₀₁₀ (Transverse Magnetic) mode is the fundamental mode for circular 
 **Real-Time Application:**
 While more common in medical and research accelerators, the principles of the TM₀₁₀ mode are foundational for advanced research at institutions like the **Bhabha Atomic Research Centre (BARC)** and **DRDO**, exploring future technologies such as high-power microwave directed-energy weapons for neutralizing enemy electronics.
 
-<img width="2304" height="1728" alt="image" src="https://github.com/user-attachments/assets/cb8b26c7-2e9f-4fca-893a-17b6418e5ec9" />
+<img width="3136" height="1344" alt="image" src="https://github.com/user-attachments/assets/a1172390-b957-4e08-a6ff-d7b8d556ee69" />
 
 ---
 
